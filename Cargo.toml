@@ -1,0 +1,11 @@
+[workspace]
+members = [
+    "day_01",
+    "day_02",
+    "day_03",
+]
+
+[workspace.package]
+version = "0.1.0"
+authors = ["Brian Davenport <breander@gmail.com>"]
+edition = "2018"
